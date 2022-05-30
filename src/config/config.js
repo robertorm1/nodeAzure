@@ -4,4 +4,4 @@
 //PUERTO
 //================================
 
-process.env.PORT = process.env.PORT || 6000;
+process.env.PORT = process.env.PORT || 4000;
